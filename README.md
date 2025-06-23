@@ -57,27 +57,6 @@ Full Stack Web Developer passionate about creating innovative solutions with **P
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mben-sal&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-## 🎯 42 School Journey
-
-```
-Current Progress: Level 10 (91%) 🚀
-
-Completed Projects:
-├── 🔤 Libft           ✅ 125/100
-├── 🖨️  ft_printf       ✅ 100/100  
-├── 🔄 get_next_line   ✅ 125/100
-├── 🎮 so_long         ✅ 115/100
-├── 🔧 pipex           ✅ 100/100
-├── 🎨 fdf             ✅ 125/100
-├── 🧮 push_swap       ✅ 100/100
-├── 🔍 minitalk        ✅ 125/100
-├── 🐚 minishell       ✅ 101/100
-├── 🌐 IRC             ✅ 125/100
-├── 🐳 Inception       ✅ 100/100
-└── 🏓 Transcendance   🚧 In Progress
-```
-
-
 
 ## 🤝 Let's Connect
 
